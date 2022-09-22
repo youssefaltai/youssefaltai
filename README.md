@@ -33,7 +33,7 @@
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/bootstrap-original.svg"/>
     <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/flask-original.svg"/>
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/flask-original.png"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/django-plain.svg"/>
     <img align="left" width="22px" 
