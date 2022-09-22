@@ -4,9 +4,8 @@
     I am Youssef Atta'i يوسف الطائي. I am a software engineer from 
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
-    <b>Cairo, Egypt</b>, and I am currently a student at
-        <img alt="Cairo University" width="23px" 
-        src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/cu-logo.png"/>
+    <b>Cairo, Egypt</b>
+    , and I am currently a student at
     <b>Cairo University</b>.
 </p>
 
