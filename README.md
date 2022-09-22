@@ -1,6 +1,6 @@
 <p>
     <br/>
-    I am a software engineer from
+    I am a software developer from
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
     <b>Cairo, Egypt</b>, and I am currently a student at <b>Cairo University</b>.
