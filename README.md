@@ -23,7 +23,7 @@
 
 <br/>
 
-### Knowledge and Skills
+### Knowledge and skills
 
 <p>
     <img align="left" width="22px" 
