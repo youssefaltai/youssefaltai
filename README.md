@@ -2,4 +2,4 @@
 
 [1]: https://www.linkedin.com/in/youssef-attai/
 
-[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)][1]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][1]
