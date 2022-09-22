@@ -1,5 +1,7 @@
 <p>
+<small>
 Arabic name: يوسف الطائي
+</small>
     <br/>
     I am a software engineer from
         <img alt="Egypt" width="13px" 
