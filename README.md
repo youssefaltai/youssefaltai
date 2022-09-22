@@ -1,4 +1,4 @@
-<h1>Hi, I'm <b>Youssef</b></h1>
+<h1>Hi, I'm <strong>Youssef</strong></h1>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
