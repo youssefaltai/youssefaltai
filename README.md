@@ -1,13 +1,13 @@
 ## Who am I
 
 <p>
-    I am Youssef. I am a software engineer from 
+    I am Youssef Atta'i يوسف الطائي. I am a software engineer from 
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
     <b>Cairo, Egypt</b>, and I am currently a student at
         <img alt="Cairo University" width="23px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/cu-logo.png"/>
-    <b>Cairo University</b>
+    <b>Cairo University</b>.
 </p>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
