@@ -1,5 +1,5 @@
 ![Banner](https://github.com/youssef-attai/youssef-attai/blob/main/banner.png)
 
-[1]: http://www.github.com/nomi811
+[1]: https://www.linkedin.com/youssef-attai/
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)][1]
