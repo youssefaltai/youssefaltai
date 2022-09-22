@@ -7,6 +7,7 @@
     <b>Cairo, Egypt</b>, and I am currently a student at
         <img alt="Cairo University" width="13px" 
         src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cairo_University_Crest.png/170px-Cairo_University_Crest.png"/>
+    <b>Cairo University</b>
 </p>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
