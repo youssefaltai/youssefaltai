@@ -57,10 +57,6 @@
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/android-plain.svg"/>
     <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linux-original.svg"/>
-    <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/windows8-original.svg"/>
-    <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/unity-original.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/csharp-original.svg"/>
