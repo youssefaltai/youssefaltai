@@ -2,7 +2,7 @@
 
 <p>
     I am Youssef, software engineer from 
-        <img align="left" alt="Egypt" width="13px" src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
+        <img alt="Egypt" width="13px" src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
     <b>Cairo, Egypt</b>
 </p>
 
