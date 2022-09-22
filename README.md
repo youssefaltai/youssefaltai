@@ -5,7 +5,7 @@
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
     <b>Cairo, Egypt</b>, and I am currently a student at
-        <img alt="Cairo University" width="13px" 
+        <img alt="Cairo University" width="23px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/cu-logo.png"/>
     <b>Cairo University</b>
 </p>
