@@ -26,6 +26,25 @@
 ### Knowledge and Skills
 
 <p>
-    <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/html5-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/css3-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/bootstrap-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/flask-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/django-original.svg"/>
+    <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/javascript-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/firebase-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/mongodb-original.svg"/>
+    <img align="left" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/express-original.svg"/>
+
 </p>
