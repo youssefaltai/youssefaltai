@@ -6,7 +6,7 @@
         src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
     <b>Cairo, Egypt</b>, and I am currently a student at
         <img alt="Cairo University" width="13px" 
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cairo_University_Crest.png/170px-Cairo_University_Crest.png"/>
+        src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png"/>
     <b>Cairo University</b>
 </p>
 
