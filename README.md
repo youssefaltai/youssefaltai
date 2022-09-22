@@ -21,7 +21,7 @@
      src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/stackoverflow-logo.svg"/>
 </a>
 
-#
+<br/>
 
 ### Knowledge and skills
 
@@ -67,7 +67,7 @@
 
 </p>
 
-#
+<br/>
 
 <a href="https://github.com/giingu">
     <img alt="views" title="GitHub profile views" 
