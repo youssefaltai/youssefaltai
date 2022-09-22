@@ -41,7 +41,7 @@
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/javascript-original.svg"/>
     <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/firebase-original.svg"/>
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/firebase-plain.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/mongodb-original.svg"/>
     <img align="left" width="22px" 
