@@ -1,10 +1,10 @@
 <p>
-    I am Youssef Atta'i يوسف الطائي. I am a software engineer from 
+يوسف الطائي
+    <br/>
+    I am a software engineer from
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
-    <b>Cairo, Egypt</b>
-    , and I am currently a student at
-    <b>Cairo University</b>.
+    <b>Cairo, Egypt</b>, and I am currently a student at <b>Cairo University</b>.
 </p>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
