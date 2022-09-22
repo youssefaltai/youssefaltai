@@ -27,5 +27,5 @@
 
 <p>
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-logo.svg"/>
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-original.svg"/>
 </p>
