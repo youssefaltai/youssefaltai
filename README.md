@@ -45,7 +45,7 @@
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/mongodb-original.svg"/>
     <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/express-original.svg"/>
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/express-original.png"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/react-original.svg"/>
     <img align="left" width="22px" 
