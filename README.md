@@ -3,10 +3,10 @@
 <p>
     I am Youssef. I am a software engineer from 
         <img alt="Egypt" width="13px" 
-        src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
+        src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
     <b>Cairo, Egypt</b>, and I am currently a student at
         <img alt="Cairo University" width="13px" 
-        src="https://cu.edu.eg/ar/images/demo/slideshow/img1.png"/>
+        src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/cu-logo.png"/>
     <b>Cairo University</b>
 </p>
 
