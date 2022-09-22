@@ -1,9 +1,12 @@
 ## Who am I
 
 <p>
-    I am Youssef, software engineer from 
-        <img alt="Egypt" width="16px" src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
-    <b>Cairo, Egypt</b>
+    I am Youssef. I am a software engineer from 
+        <img alt="Egypt" width="13px" 
+        src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
+    <b>Cairo, Egypt</b>, and I am currently a student at
+        <img alt="Cairo University" width="13px" 
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cairo_University_Crest.png/170px-Cairo_University_Crest.png"/>
 </p>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
