@@ -1,4 +1,6 @@
-<h1>Hi, I'm <strong>Youssef</strong></h1>
+## Who am I
+
+I am from <img align="left" alt="Egypt" width="13px" src="https://cdn-icons-png.flaticon.com/512/323/323324.png"/>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
