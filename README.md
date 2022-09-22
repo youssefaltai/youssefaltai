@@ -57,7 +57,7 @@
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/android-plain.svg"/>
     <img align="left" width="22px" 
-    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/unity-original.svg"/>
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/unity-original.png"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/csharp-original.svg"/>
     <img align="left" width="22px" 
