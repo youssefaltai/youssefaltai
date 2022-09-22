@@ -7,13 +7,25 @@
 </p>
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
-    <img align="left" alt="Youssef's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
 </a>
 
 <a href="https://g.dev/youssef-attai/">
-    <img align="left" alt="Youssef's Google Developer profile" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+    <img align="left" alt="Youssef's Google Developer profile" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/google-logo.svg"/>
 </a>
 
 <a href="https://stackoverflow.com/u/14174934/">
-    <img align="left" alt="Youssef's StackOverflow profile" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/stackoverflow-color-icon.svg"/>
+    <img align="left" alt="Youssef's StackOverflow profile" width="22px"
+     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/stackoverflow-logo.svg"/>
 </a>
+
+<br/>
+
+### Knowledge and Skills
+
+<p>
+    <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
+    src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-logo.svg"/>
+</p>
