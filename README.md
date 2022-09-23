@@ -28,7 +28,7 @@
 ### Knowledge and skills:
 
 <p>
-    <img align="left" width="22px"
+    <img align="left" width="22px" title="HTML5"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/html5-original.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/css3-original.svg"/>
