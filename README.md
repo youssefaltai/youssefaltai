@@ -6,12 +6,14 @@
     <b>Cairo, Egypt</b>, and I am currently a student at <b>Cairo University</b>.
 </p>
 
+[Hover you mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
+
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
-</a>[test](## "testing")
+</a>
 
 <a href="https://g.dev/youssef-attai/">
     <img align="left" alt="Youssef's Google Developer profile" width="22px" 
