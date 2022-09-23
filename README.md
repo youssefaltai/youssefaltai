@@ -3,7 +3,7 @@
     I am a software developer from
         <img alt="Egypt" width="13px" 
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
-    <b>Cairo, Egypt</b>, and I am currently a <span title="Faculty of Computers and Artificial Intelligence">student</span> at <b>Cairo University</b>.
+    <b>Cairo, Egypt</b>, and I am currently a <span title="Faculty of Computers and Artificial Intelligence">student at <b>Cairo University</b>.</span>
 </p>
 
 ### Find me on:
