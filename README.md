@@ -8,17 +8,17 @@
 
 ### Find me on:
 
-<a href="https://www.linkedin.com/in/youssef-attai/" title="tooltip_text">
+<a href="https://www.linkedin.com/in/youssef-attai/" title="My LinkedIn profile">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
 </a>
 
-<a href="https://g.dev/youssef-attai/">
+<a href="https://g.dev/youssef-attai/" title="My Google Developer profile">
     <img align="left" alt="Youssef's Google Developer profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/google-logo.svg"/>
 </a>
 
-<a href="https://stackoverflow.com/u/14174934/">
+<a href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
     <img align="left" alt="Youssef's StackOverflow profile" width="22px"
      src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/stackoverflow-logo.svg"/>
 </a>
@@ -28,7 +28,7 @@
 ### Knowledge and skills:
 
 <p>
-    <img align="left" width="22px" 
+    <img align="left" width="22px"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/html5-original.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/css3-original.svg"/>
@@ -42,7 +42,7 @@
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-original.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/javascript-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/firebase-plain.svg"/>
     <img align="left" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/mongodb-original.svg"/>
