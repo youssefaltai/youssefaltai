@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/youssef-attai/">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
-</a>[](## My LinkedIn profile)
+</a>[](## "My LinkedIn profile")
 
 <a href="https://g.dev/youssef-attai/">
     <img align="left" alt="Youssef's Google Developer profile" width="22px" 
