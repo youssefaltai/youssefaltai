@@ -13,12 +13,12 @@
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
 </a>
 
-<a href="https://g.dev/youssef-attai/" title="My Google Developer profile">
+<a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
     <img align="left" alt="Youssef's Google Developer profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/google-logo.svg"/>
 </a>
 
-<a href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
+<a target="_blank" href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
     <img align="left" alt="Youssef's StackOverflow profile" width="22px"
      src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/stackoverflow-logo.svg"/>
 </a>
