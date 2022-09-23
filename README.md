@@ -6,8 +6,6 @@
     <b>Cairo, Egypt</b>, and I am currently a student at <b>Cairo University</b>.
 </p>
 
-[Hover you mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
-
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/youssef-attai/">
