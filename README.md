@@ -8,7 +8,7 @@
 
 ### Find me on:
 
-<a href="https://www.linkedin.com/in/youssef-attai/">
+<a href="https://www.linkedin.com/in/youssef-attai/" title="tooltip_text">
     <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/linkedin-logo.svg"/>
 </a>
