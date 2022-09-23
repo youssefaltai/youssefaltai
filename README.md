@@ -28,43 +28,43 @@
 ### Knowledge and skills:
 
 <p>
-    <img align="left" width="22px" title="HTML5"
+    <img align="left" width="22px" title="HTML"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/html5-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="CSS"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/css3-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Bootstrap"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/bootstrap-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Flask"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/flask-original.png"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Django"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/django-plain.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Python"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/python-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Javascript"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/javascript-original.svg"/>
-    <img align="left" width="22px"
+    <img align="left" width="22px"title="Firebase"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/firebase-plain.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="MongoDB"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/mongodb-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Express.js"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/express-original.png"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="React.js"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/react-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Node.js"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/nodejs-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Java"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/java-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Kotlin"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/kotlin-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Android development"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/android-plain.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="Unity"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/unity-original.png"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="C#"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/csharp-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="C++"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/cplusplus-original.svg"/>
-    <img align="left" width="22px" 
+    <img align="left" width="22px" title="C"
     src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/c-original.svg"/>
 
 </p>
