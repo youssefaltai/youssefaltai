@@ -1,6 +1,5 @@
 <h3> Hey, there</h3>
 <p>
-    <br/>
     I am a software developer from
         <img alt="Egypt" width="13px" title="Egypt"
         src="https://github.com/youssef-attai/youssef-attai/blob/main/imgs/egypt-logo.png"/>
