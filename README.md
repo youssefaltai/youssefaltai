@@ -71,6 +71,7 @@
 
 <br/>
 <br/>
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-attai&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
