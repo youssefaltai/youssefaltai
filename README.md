@@ -13,14 +13,19 @@
     src="./imgs/linkedin-logo.svg"/>
 </a>
 
-<a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
-    <img align="left" alt="Youssef's Google Developer profile" width="22px" 
-    src="./imgs/google-logo.svg"/>
-</a>
-
 <a target="_blank" href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
     <img align="left" alt="Youssef's StackOverflow profile" width="22px"
      src="./imgs/stackoverflow-logo.svg"/>
+</a>
+
+<a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
+    <img align="left" alt="Youssef's Google Developer profile" width="22px" 
+    src="./imgs/google-developers.svg"/>
+</a>
+
+<a target="_blank" href="mailto:youssefgalalnazem@gmail.com" title="Email me">
+    <img align="left" alt="Youssef's Gmail" width="22px" 
+    src="./imgs/gmail.svg"/>
 </a>
 
 <br/>
