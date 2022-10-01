@@ -18,6 +18,11 @@
      src="./imgs/stackoverflow-logo.svg"/>
 </a>
 
+<a target="_blank" href="https://discord.com/users/832587472411820044/" title="My Discord">
+    <img align="left" alt="Youssef's Discord" width="22px"
+     src="./imgs/discord.svg"/>
+</a>
+
 <a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
     <img align="left" alt="Youssef's Google Developer profile" width="22px" 
     src="./imgs/google-developers.svg"/>
