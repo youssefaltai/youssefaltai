@@ -34,6 +34,8 @@
     src="./imgs/css3-original.svg"/>
     <img align="left" width="22px" title="Bootstrap"
     src="./imgs/bootstrap-original.svg"/>
+        <img align="left" width="22px" title="Material UI"
+    src="./imgs/mui.svg"/>
     <img align="left" width="22px" title="Flask"
     src="./imgs/flask-original.png"/>
     <img align="left" width="22px" title="Django"
@@ -42,6 +44,8 @@
     src="./imgs/python-original.svg"/>
     <img align="left" width="22px" title="Javascript"
     src="./imgs/javascript-original.svg"/>
+    <img align="left" width="22px" title="Typescript"
+    src="./imgs/typescript.svg"/>
     <img align="left" width="22px"title="Firebase"
     src="./imgs/firebase-plain.svg"/>
     <img align="left" width="22px" title="MongoDB"
