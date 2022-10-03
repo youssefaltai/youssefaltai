@@ -9,27 +9,27 @@
 ### Find me on:
 
 <a target="_blank" href="https://www.linkedin.com/in/youssef-attai/" title="My LinkedIn profile">
-    <img align="left" alt="Youssef's LinkedIn profile" width="22px" 
+    <img align="left" alt="Youssef's LinkedIn profile" width="44px" 
     src="./imgs/linkedin-logo.svg"/>
 </a>
 
 <a target="_blank" href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
-    <img align="left" alt="Youssef's StackOverflow profile" width="22px"
+    <img align="left" alt="Youssef's StackOverflow profile" width="44px"
      src="./imgs/stackoverflow-logo.svg"/>
 </a>
 
 <a target="_blank" href="https://discord.com/users/832587472411820044/" title="My Discord">
-    <img align="left" alt="Youssef's Discord" width="22px"
+    <img align="left" alt="Youssef's Discord" width="44px"
      src="./imgs/discord.svg"/>
 </a>
 
 <a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
-    <img align="left" alt="Youssef's Google Developer profile" width="22px" 
+    <img align="left" alt="Youssef's Google Developer profile" width="44px" 
     src="./imgs/google-developers.svg"/>
 </a>
 
 <a target="_blank" href="mailto:youssefgalalnazem@gmail.com" title="Email me">
-    <img align="left" alt="Youssef's Gmail" width="22px" 
+    <img align="left" alt="Youssef's Gmail" width="44px" 
     src="./imgs/gmail.svg"/>
 </a>
 
@@ -38,49 +38,49 @@
 ### Knowledge and skills:
 
 <p>
-    <img align="left" width="22px" title="HTML"
+    <img align="left" width="44px" title="HTML"
     src="./imgs/html5-original.svg"/>
-    <img align="left" width="22px" title="CSS"
+    <img align="left" width="44px" title="CSS"
     src="./imgs/css3-original.svg"/>
-    <img align="left" width="22px" title="Bootstrap"
+    <img align="left" width="44px" title="Bootstrap"
     src="./imgs/bootstrap-original.svg"/>
-        <img align="left" width="22px" title="Material UI"
+        <img align="left" width="44px" title="Material UI"
     src="./imgs/mui.svg"/>
-    <img align="left" width="22px" title="Flask"
+    <img align="left" width="44px" title="Flask"
     src="./imgs/flask-original.png"/>
-    <img align="left" width="22px" title="Django"
+    <img align="left" width="44px" title="Django"
     src="./imgs/django-plain.svg"/>
-    <img align="left" width="22px" title="Python"
+    <img align="left" width="44px" title="Python"
     src="./imgs/python-original.svg"/>
-    <img align="left" width="22px" title="Javascript"
+    <img align="left" width="44px" title="Javascript"
     src="./imgs/javascript-original.svg"/>
-    <img align="left" width="22px" title="Typescript"
+    <img align="left" width="44px" title="Typescript"
     src="./imgs/typescript.svg"/>
-    <img align="left" width="22px"title="Firebase"
+    <img align="left" width="44px"title="Firebase"
     src="./imgs/firebase-plain.svg"/>
-    <img align="left" width="22px" title="MongoDB"
+    <img align="left" width="44px" title="MongoDB"
     src="./imgs/mongodb-original.svg"/>
-    <img align="left" width="22px" title="Express.js"
+    <img align="left" width="44px" title="Express.js"
     src="./imgs/express-original.png"/>
-    <img align="left" width="22px" title="React.js"
+    <img align="left" width="44px" title="React.js"
     src="./imgs/react-original.svg"/>
-    <img align="left" width="22px" title="Node.js"
+    <img align="left" width="44px" title="Node.js"
     src="./imgs/nodejs-original.svg"/>
-    <img align="left" width="22px" title="Java"
+    <img align="left" width="44px" title="Java"
     src="./imgs/java-original.svg"/>
-    <img align="left" width="22px" title="Kotlin"
+    <img align="left" width="44px" title="Kotlin"
     src="./imgs/kotlin-original.svg"/>
-    <img align="left" width="22px" title="Android development"
+    <img align="left" width="44px" title="Android development"
     src="./imgs/android-plain.svg"/>
-    <img align="left" width="22px" title="Unity"
+    <img align="left" width="44px" title="Unity"
     src="./imgs/unity-original.png"/>
-    <img align="left" width="22px" title="C#"
+    <img align="left" width="44px" title="C#"
     src="./imgs/csharp-original.svg"/>
-    <img align="left" width="22px" title="C++"
+    <img align="left" width="44px" title="C++"
     src="./imgs/cplusplus-original.svg"/>
-    <img align="left" width="22px" title="C"
+    <img align="left" width="44px" title="C"
     src="./imgs/c-original.svg"/>
-    <img align="left" width="22px" title="Qt"
+    <img align="left" width="44px" title="Qt"
     src="./imgs/qt.svg"/>
 </p>
 
