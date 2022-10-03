@@ -1,4 +1,4 @@
-<h2> Hey, there</h2>
+<big> Hey, there</big>
 
 <h3>
     I am a software developer from
