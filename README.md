@@ -1,11 +1,13 @@
-<h3> Hey, there</h3>
+<h2> Hey, there</h2>
 
-<p>
+<h3>
     I am a software developer from
         <img alt="Egypt" width="13px" title="Egypt"
         src="./imgs/egypt-logo.png"/>
     <b>Cairo, Egypt</b>, and I am currently studying <span title="Faculty of Computers and Artificial Intelligence">Information Systems at <b>Cairo University</b>.</span>
-</p>
+</h3>
+
+#
 
 <h3> Knowledge and skills</h3>
 
@@ -56,7 +58,7 @@
     src="./imgs/qt.svg"/>
 </p>
 
-#
+<br/>
 
 <h3>Find me on:</h3>
 
@@ -88,6 +90,8 @@
 </a>
 
 </p>
+
+<br/>
 
 #
 
