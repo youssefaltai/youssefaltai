@@ -60,29 +60,31 @@
 <div>
 
 <a target="_blank" href="https://www.linkedin.com/in/youssef-attai/" title="My LinkedIn profile">
-    <img align="left" alt="Youssef's LinkedIn profile" width="36px" 
+    <img align="left"  alt="Youssef's LinkedIn profile" width="36px" 
     src="./imgs/linkedin-logo.svg"/>
 </a>
 
 <a target="_blank" href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
-    <img align="left" alt="Youssef's StackOverflow profile" width="36px"
+    <img align="left"  alt="Youssef's StackOverflow profile" width="36px"
      src="./imgs/stackoverflow-logo.svg"/>
 </a>
 
 <a target="_blank" href="https://discord.com/users/832587472411820044/" title="My Discord">
-    <img align="left" alt="Youssef's Discord" width="36px"
+    <img align="left"  alt="Youssef's Discord" width="36px"
      src="./imgs/discord.svg"/>
 </a>
 
 <a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
-    <img align="left" alt="Youssef's Google Developer profile" width="36px" 
+    <img align="left"  alt="Youssef's Google Developer profile" width="36px" 
     src="./imgs/google-developers.svg"/>
 </a>
 
 <a target="_blank" href="mailto:youssefgalalnazem@gmail.com" title="Email me">
     <img align="left" alt="Youssef's Gmail" width="36px" 
     src="./imgs/gmail.svg"/>
+    <br/>
 </a>
+<br/>
 </div>
 </li>
 </ul>
