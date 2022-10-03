@@ -1,5 +1,3 @@
-<big> Hey, there</big>
-
 <h3>
     I am a software developer from
         <img alt="Egypt" width="13px" title="Egypt"
