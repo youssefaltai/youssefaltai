@@ -15,7 +15,7 @@
     src="./imgs/css3-original.svg"/>
     <img style="padding:5px;" width="36px" title="Bootstrap"
     src="./imgs/bootstrap-original.svg"/>
-        <img style="padding:5px;" width="36px" title="Material UI"
+    <img style="padding:5px;" width="36px" title="Material UI"
     src="./imgs/mui.svg"/>
     <img style="padding:5px;" width="36px" title="Flask"
     src="./imgs/flask-original.png"/>
@@ -35,6 +35,7 @@
     src="./imgs/express-original.png"/>
     <img style="padding:5px;" width="36px" title="React.js"
     src="./imgs/react-original.svg"/>
+    <img style="padding:5px;" width="36px" title="Redux.js" src="./imgs/redux.svg"/>
     <img style="padding:5px;" width="36px" title="Node.js"
     src="./imgs/nodejs-original.svg"/>
     <img style="padding:5px;" width="36px" title="Java"
@@ -53,6 +54,8 @@
     src="./imgs/c-original.svg"/>
     <img style="padding:5px;" width="36px" title="Qt"
     src="./imgs/qt.svg"/>
+    <img style="padding:5px;" width="36px" title="GTK"
+    src="./imgs/GTK_logo.svg"/>
 </div>
 </li>
 <li>
