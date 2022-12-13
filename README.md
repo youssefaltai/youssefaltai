@@ -1,4 +1,4 @@
-### I am Youssef Galal Atta'i (الطائي), a software developer from Egypt, and I am currently studying Information Systems at Cairo University.
+### I am Youssef Galal Atta'i (الطائي), I am a software developer from Egypt, and I am currently studying Information Systems at Cairo University.
 
 ## Contact
 
