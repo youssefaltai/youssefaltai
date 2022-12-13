@@ -1,96 +1,40 @@
-<h3>
-    I am a software developer from
-        <img alt="Egypt" width="13px" title="Egypt"
-        src="./imgs/egypt-logo.png"/>
-    <b>Cairo, Egypt</b>, and I am currently studying <span title="Faculty of Computers and Artificial Intelligence">Information Systems at <b>Cairo University</b>.</span>
-</h3>
+## Who am I
 
-<ul>
-<li>
-<h3> Knowledge and skills</h3>
-<div>
-<img style="padding:5px;" width="36px" title="HTML"
-    src="./imgs/html5-original.svg"/>
-    <img style="padding:5px;" width="36px" title="CSS"
-    src="./imgs/css3-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Bootstrap"
-    src="./imgs/bootstrap-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Material UI"
-    src="./imgs/mui.svg"/>
-    <img style="padding:5px;" width="36px" title="Flask"
-    src="./imgs/flask-original.png"/>
-    <img style="padding:5px;" width="36px" title="Django"
-    src="./imgs/django-plain.svg"/>
-    <img style="padding:5px;" width="36px" title="Python"
-    src="./imgs/python-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Javascript"
-    src="./imgs/javascript-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Typescript"
-    src="./imgs/typescript.svg"/>
-    <img style="padding:5px;" width="36px"title="Firebase"
-    src="./imgs/firebase-plain.svg"/>
-    <img style="padding:5px;" width="36px" title="MongoDB"
-    src="./imgs/mongodb-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Express.js"
-    src="./imgs/express-original.png"/>
-    <img style="padding:5px;" width="36px" title="React.js"
-    src="./imgs/react-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Redux.js" src="./imgs/redux.svg"/>
-    <img style="padding:5px;" width="36px" title="Node.js"
-    src="./imgs/nodejs-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Java"
-    src="./imgs/java-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Kotlin"
-    src="./imgs/kotlin-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Android development"
-    src="./imgs/android-plain.svg"/>
-    <img style="padding:5px;" width="36px" title="Unity"
-    src="./imgs/unity-original.png"/>
-    <img style="padding:5px;" width="36px" title="C#"
-    src="./imgs/csharp-original.svg"/>
-    <img style="padding:5px;" width="36px" title="C++"
-    src="./imgs/cplusplus-original.svg"/>
-    <img style="padding:5px;" width="36px" title="C"
-    src="./imgs/c-original.svg"/>
-    <img style="padding:5px;" width="36px" title="Qt"
-    src="./imgs/qt.svg"/>
-    <img style="padding:5px;" width="36px" title="GTK"
-    src="./imgs/GTK_logo.svg"/>
-</div>
-</li>
-<li>
-<h3>Find me online</h3>
-<div>
+### I am Youssef Galal Atta'i (الطائي), a software developer from Egypt, and I am currently studying Information Systems at Cairo University.
 
-<a target="_blank" href="https://www.linkedin.com/in/youssef-attai/" title="My LinkedIn profile">
-    <img style="padding:5px;" align="left"  alt="Youssef's LinkedIn profile" width="36px" 
-    src="./imgs/linkedin-logo.svg"/>
-</a>
+## Contact
 
-<a target="_blank" href="https://stackoverflow.com/u/14174934/" title="My StackOverflow profile">
-    <img style="padding:5px;" align="left"  alt="Youssef's StackOverflow profile" width="36px"
-     src="./imgs/stackoverflow-logo.svg"/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/832587472411820044/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-attai/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefgalalnazem@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01552452691)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.galal.attai)
 
-<a target="_blank" href="https://discord.com/users/832587472411820044/" title="My Discord">
-    <img style="padding:5px;" align="left"  alt="Youssef's Discord" width="36px"
-     src="./imgs/discord.svg"/>
-</a>
+## Knowledge and skills
 
-<a target="_blank" href="https://g.dev/youssef-attai/" title="My Google Developer profile">
-    <img style="padding:5px;" align="left"  alt="Youssef's Google Developer profile" width="36px" 
-    src="./imgs/google-developers.svg"/>
-</a>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<a target="_blank" href="mailto:youssefgalalnazem@gmail.com" title="Email me">
-    <img style="padding:5px;" align="left" alt="Youssef's Gmail" width="36px" 
-    src="./imgs/gmail.svg"/>
-    <br/>
-</a>
-<br/>
-</div>
-</li>
-</ul>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux.js](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ****
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=youssef-attai&theme=dark&hide_border=true&stroke=840277&ring=89027C&background=DD272700&fire=FF00A3&currStreakNum=FF00A3&sideNums=FF00A3&currStreakLabel=FF00A3&sideLabels=FF00A3&dates=FF00A3" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youssef-attai&theme=dark&hide_border=true&background=DDDDDD00&stroke=5F0E8A&border=5F0E8A&ring=5F0E8A&fire=9509E1&currStreakNum=7912B0&sideNums=7912B0&currStreakLabel=7912B0&sideLabels=7912B0&dates=7912B0)](https://git.io/streak-stats)
