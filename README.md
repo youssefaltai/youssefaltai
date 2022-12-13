@@ -37,4 +37,4 @@
 
 ****
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youssef-attai&theme=dark&hide_border=true&background=DDDDDD00&stroke=5F0E8A&border=5F0E8A&ring=5F0E8A&fire=9509E1&currStreakNum=7912B0&sideNums=7912B0&currStreakLabel=7912B0&sideLabels=7912B0&dates=7912B0)](https://git.io/streak-stats)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=youssef-attai&theme=dark&hide_border=true&background=DDDDDD00&stroke=5F0E8A&border=5F0E8A&ring=5F0E8A&fire=9509E1&currStreakNum=7912B0&sideNums=7912B0&currStreakLabel=7912B0&sideLabels=7912B0&dates=7912B0" />
