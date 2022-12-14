@@ -1,5 +1,5 @@
 ### I am a software developer from 🇪🇬 Egypt
-### _BSc, Information systems, Cairo University (2020 - 2024)_
+#### _BSc, Information systems, Cairo University (2020 - 2024)_
 
 ## Knowledge and skills
 
