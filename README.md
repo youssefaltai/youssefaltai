@@ -1,5 +1,4 @@
-# I am Youssef Atta'i
-## I am a software developer from 🇪🇬 Egypt
+### I am a software developer from 🇪🇬 Egypt
 ### _BSc, Information systems, Cairo University (2020 - 2024)_
 
 ## Knowledge and skills
