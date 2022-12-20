@@ -1,5 +1,5 @@
 ### I am Youssef, I am a software developer from Egypt.
-#### _B. Sc. Information systems, Cairo University (2020 - 2024)_
+#### _B.Sc. Information systems, Cairo University (2020 - 2024)_
 
 ## Knowledge and skills
 
