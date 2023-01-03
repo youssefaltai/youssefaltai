@@ -57,5 +57,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-attai/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefgalalnazem@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.galal.attai)
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=youssef-attai&theme=dark&hide_border=true&background=DDDDDD00&stroke=5F0E8A&border=5F0E8A&ring=5F0E8A&fire=9509E1&currStreakNum=7912B0&sideNums=7912B0&currStreakLabel=7912B0&sideLabels=7912B0&dates=7912B0" />
