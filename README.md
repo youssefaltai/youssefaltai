@@ -37,7 +37,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Desktop applications development
+#### Desktop development
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![Gtk+ 3](https://img.shields.io/badge/GTK-7FE719.svg?style=for-the-badge&logo=GTK&logoColor=white)
 
