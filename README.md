@@ -10,15 +10,10 @@
 #### Full-stack web development
 
 ![Javascript](https://skillicons.dev/icons?i=typescript,mongodb,expressjs,react,nodejs)
-
 ![Python](https://skillicons.dev/icons?i=python,fastapi,flask,django)
-
 ![Java](https://skillicons.dev/icons?i=java,spring)
-
 ![PHP](https://skillicons.dev/icons?i=php,laravel)
-
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql)
-
 ![Others](https://skillicons.dev/icons?i=firebase)
 
 #### Desktop development
