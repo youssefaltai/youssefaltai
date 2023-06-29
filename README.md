@@ -1,29 +1,55 @@
+<h6 align="right">
+  <i>
+    B.Sc. Information systems<br/>Cairo University (2020 - 2024)
+  </i>
+</h6> 
 
-###### _B.Sc. Information systems, Cairo University (2020 - 2024)_
+<h2 align="left">
+  Knowledge, tools and skills
+</h2>
 
-## Knowledge, tools and skills
+<h4 align="center">
+  Essentials
+</h4>
 
-#### Essentials
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,docker" alt="Essential skills" />
+</p>
 
-![Essential skills](https://skillicons.dev/icons?i=linux,bash,vim,git,github,docker)
+<h4 align="center">
+  Full-stack web development
+</h4>
 
-#### Full-stack web development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Others" />
+</p>
 
-![Javascript](https://skillicons.dev/icons?i=typescript,mongodb,expressjs,react,nodejs)
-![Python](https://skillicons.dev/icons?i=python,fastapi,flask,django)
-![Java](https://skillicons.dev/icons?i=java,spring)
-![PHP](https://skillicons.dev/icons?i=php,laravel)
-![Databases](https://skillicons.dev/icons?i=mysql,postgresql)
-![Others](https://skillicons.dev/icons?i=firebase)
+<h4 align="center">
+  Desktop development
+</h4>
 
-#### Desktop development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,c,vala,gtk" alt="Desktop" />
+</p>
 
-![Desktop](https://skillicons.dev/icons?i=cpp,qt,c,vala,gtk)
+<h4 align="center">
+  Mobile developement
+</h4>
 
-#### Mobile development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,dart,flutter" alt="Mobile" />
+</p>
 
-![Mobile](https://skillicons.dev/icons?i=react,kotlin,androidstudio,dart,flutter)
+<h4 align="center">
+  Game developement
+</h4>
 
-#### Game developement
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,cs,unity" alt="Game" />
+</p>
 
-![Game](https://skillicons.dev/icons?i=godot,cs,unity)
