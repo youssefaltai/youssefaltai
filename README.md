@@ -22,11 +22,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" alt="Python" />
   <img src="https://skillicons.dev/icons?i=java,spring" alt="Java" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Others" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=firebase,figma" alt="Others" />
 </p>
 
 <h4 align="center">
