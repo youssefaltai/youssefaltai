@@ -28,8 +28,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,figma" alt="Others" />
 </p>
 
 <h4 align="center">
