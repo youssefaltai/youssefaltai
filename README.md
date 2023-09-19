@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,docker" alt="Essential skills" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" alt="Essential skills" />
 </p>
 
 <h4 align="center">
