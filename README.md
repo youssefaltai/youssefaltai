@@ -43,7 +43,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,dart,flutter" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio" alt="Mobile" />
 </p>
 
 <h4 align="center">
