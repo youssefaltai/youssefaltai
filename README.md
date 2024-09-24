@@ -21,21 +21,13 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
+  <img src="https://skillicons.dev/icons?i=next,typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <br/>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
-</p>
-
-<h4 align="center">
-  Desktop development
-</h4>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,c,vala,gtk" alt="Desktop" />
 </p>
 
 <h4 align="center">
@@ -47,10 +39,18 @@
 </p>
 
 <h4 align="center">
+  Desktop development
+</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=qt,cpp,c,python,vala,gtk" alt="Desktop" />
+</p>
+
+<h4 align="center">
   Game developement
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,cs,unity" alt="Game" />
+  <img src="https://skillicons.dev/icons?i=godot,unity,cs,python,typescript" alt="Game" />
 </p>
 
