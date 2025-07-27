@@ -1,8 +1,9 @@
-![Cover Image](https://github.com/user-attachments/assets/be1bc9c9-888a-4c39-af3f-235c413889ac)
+![GitHub Cover 5](https://github.com/user-attachments/assets/fa85d131-0a2d-4e61-b242-c58b18576bef)
+
 
 # I'm Youssef al‑Tai
 
-I’m a software engineer specializing in frontend and UX.
+I’m a software engineer and UX enthusiast. I help start-ups build MVPs that scale.
 
 **More about me:** [https://youssefaltai.com](https://youssefaltai.com)
 
