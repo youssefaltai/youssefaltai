@@ -5,6 +5,4 @@
 
 I’m a software engineer and UX enthusiast. I help start-ups build MVPs that scale.
 
-**More about me:** [https://youssefaltai.com](https://youssefaltai.com)
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/youssefaltai) • [Book a call](https://youssefaltai.com/call)
+**Connect:** [https://youssefaltai.com](My website) • [LinkedIn](https://www.linkedin.com/in/youssefaltai) • [Book a call](https://youssefaltai.com/call)
