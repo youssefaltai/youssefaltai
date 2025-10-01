@@ -1,5 +1,4 @@
-
-![GitHub Cover](https://github.com/user-attachments/assets/1c3e3e00-699a-4fe6-b759-10e8f1790cbb)
+![GitHub](https://github.com/user-attachments/assets/6a5cd693-5f89-4c84-a099-e944a153a37a)
 
 # Youssef al‑Tai
 
